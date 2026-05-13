@@ -1,0 +1,12 @@
+Used Car Price Prediction Dataset
+Features:
+- Car_Name: Name of the car
+- Year: Manufacturing year
+- Selling_Price: Target variable (price at which the car was sold)
+- Present_Price: Current market price of the car
+- Kms_Driven: Number of kilometers driven
+- Fuel_Type: Type of fuel (Petrol, Diesel, CNG)
+- Seller_Type: Type of seller (Dealer, Individual)
+- Transmission: Gear transmission (Manual, Automatic)
+- Owner: Number of previous owners
+- Car_Age: Derived feature (2026 - Year)
